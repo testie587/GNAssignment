@@ -1,0 +1,7 @@
+InitApp is annotated with @Component. So Spring will autowire the constructor during spring initialization.
+
+I have code to parse the data from csv file which stored in resources folder.
+
+After parsing i am creating theater model out of each row and persisting the records using Spring JPA.
+
+

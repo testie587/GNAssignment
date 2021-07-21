@@ -1,0 +1,3 @@
+this is the database jpa model
+
+lombok been used for @builder pattern and getter and setter methods.
